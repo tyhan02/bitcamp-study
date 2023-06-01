@@ -30,7 +30,7 @@ public class Exam0200 {
   }
 }
 
-//## 실습
+//## 실습_8
 //1) Java Document 만들기
 //- javadoc.exe 도구를 사용하여 자바 소스 파일에서 Javadoc 주석을 추출하여 HTML 파일을 생성해 보자.
 //     javadoc 

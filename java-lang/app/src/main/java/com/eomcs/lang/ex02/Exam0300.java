@@ -32,7 +32,7 @@ public class Exam0300 {
   }
 }
 
-//## 실습1 : 컴파일하기
+//## 실습1_9 : 컴파일하기
 //- $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/basic/ex02/Exam3.java
 //- 오류없이 정상적으로 컴파일 된다.
 //

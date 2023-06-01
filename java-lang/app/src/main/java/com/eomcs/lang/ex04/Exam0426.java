@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 부동소수점 변수 - 크기가 다른 변수끼리 값 할당
-//
+
 public class Exam0426 {
   public static void main(String[] args) {
 

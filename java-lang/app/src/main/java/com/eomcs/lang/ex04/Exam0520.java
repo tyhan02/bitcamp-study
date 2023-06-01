@@ -8,7 +8,7 @@ package com.eomcs.lang.ex04;
 
 // - 배열의 인덱스는 0부터 시작한다.
 // - 인덱스의 범위는 0 ~ (배열개수 - 1) 이다.
-//
+
 public class Exam0520 {
   public static void main(String[] args) {
     int[] arr1 = new int[5];

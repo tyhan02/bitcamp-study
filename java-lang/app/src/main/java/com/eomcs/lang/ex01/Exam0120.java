@@ -8,7 +8,7 @@ class A {}
 class B {}
 class C {}
  
-//## 실습
+//## 실습_2
 //1) 컴파일하기
 //- $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/lang/ex01/Exam1_2.java
 //

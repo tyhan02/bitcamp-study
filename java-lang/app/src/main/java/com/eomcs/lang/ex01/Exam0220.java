@@ -6,7 +6,7 @@ package com.eomcs.lang.ex01;
 //다음과 같이 클래스명과 소스 파일명이 다르면 컴파일 오류가 발생한다.
 public class Exam2_2x {}
 
-//## 실습
+//## 실습_4
 //1) 컴파일하기
 //- $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/lang/ex01/Exam2_2.java
 //- 컴파일 오류가 발생한다.

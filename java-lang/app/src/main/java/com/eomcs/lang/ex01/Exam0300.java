@@ -18,7 +18,7 @@ class Exam0300 {
   }
 }
 
-//## 실습
+//## 실습_6
 //1) 컴파일하기
 //- $ javac -encoding [문자집합] [소스파일명]
 //- 예) $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/lang/ex01/Exam0300.java

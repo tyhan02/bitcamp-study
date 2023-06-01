@@ -19,7 +19,7 @@ public class Exam0400 {
    }
 }
 
-//## 실습
+//## 실습_7
 //1) 컴파일하기
 //- $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/lang/ex01/Exam0400.java
 //

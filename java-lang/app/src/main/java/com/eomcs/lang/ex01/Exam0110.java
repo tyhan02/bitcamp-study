@@ -8,7 +8,7 @@ package com.eomcs.lang.ex01;
 
 class Exam0110 {}
  
-//## 실습
+//## 실습_1
 //1) 컴파일하기
 //- $ javac -d bin/main -encoding UTF-8 src/main/java/com/eomcs/lang/ex01/Exam0110.java
 //

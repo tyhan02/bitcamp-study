@@ -4,7 +4,7 @@
 // 값2? 20
 // 연산자(+,-,*,/)? +
 // => 10 + 20 = 30 
-//
+
 package com.eomcs.lang.ex04.assignment2;
 
 import java.util.Scanner;

@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 블록 안에서 변수 선언 위치  
-//
+
 public class Exam0210 {
   
   public static void main(String[] args) {

@@ -4,7 +4,8 @@ package com.eomcs.lang.ex04.assignment;
 public class Test02 {
     public static void main(String[] args) {
 
-        // 배열을 사용하면 같은 종류의 메모리를 아주 간단하게 만들 수 있다.
+        //
+        // 배열을 사용하면 같은 종류의 메모리를 아주 간단하게 만들 수 있다
         String[] name = new String[5];
         int[] kor = new int[5];
         int[] eng = new int[5];

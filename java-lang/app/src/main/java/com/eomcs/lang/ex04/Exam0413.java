@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
-//# 정수 변수 - 크기가 다른 변수끼리 값 할당
-//
+// 정수 변수 - 크기가 다른 변수끼리 값 할당
+
 public class Exam0413 {  
   public static void main(String[] args) {
     long l = 100;

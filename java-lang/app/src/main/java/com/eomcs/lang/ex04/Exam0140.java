@@ -4,7 +4,7 @@ package com.eomcs.lang.ex04;
 //- 변수과 동시에 값을 즉시 저장할 수 있다.
 //- 문법
 //    데이터타입 변수명 = 값;
-//
+
 
 public class Exam0140 {
   public static void main(String[] args) {

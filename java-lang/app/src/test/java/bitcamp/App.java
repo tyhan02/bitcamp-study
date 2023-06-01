@@ -19,7 +19,6 @@ public class App {
         //  키보드 스캐너 준비
         Scanner keyboardScanner = new Scanner(System.in);
 
-        //for문 귀찮으면..
         for (int i = 0; i < a; i++) {
             num[i] = i + 1;
             name[i] = "이름" + (i + 1);

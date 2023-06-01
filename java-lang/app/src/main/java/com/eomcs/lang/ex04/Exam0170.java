@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 변수의 값 변경
-//
+
 public class Exam0170 {
   public static void main(String[] args) {
     int age;

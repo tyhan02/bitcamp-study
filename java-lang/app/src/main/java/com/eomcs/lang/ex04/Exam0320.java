@@ -2,7 +2,7 @@ package com.eomcs.lang.ex04;
 
 //# 변수 사용 II
 //- 다른 변수에 값을 저장할 때 사용할 수 있다.
-//
+
 
 public class Exam0320 {
   public static void main(String[] args) {

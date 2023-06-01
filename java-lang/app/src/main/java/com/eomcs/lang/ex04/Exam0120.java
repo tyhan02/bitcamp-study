@@ -4,7 +4,7 @@ package com.eomcs.lang.ex04;
 //- 한 문장으로 같은 유형의 변수를 여러 개 선언할 수 있다.
 //- 문법
 //  데이터타입 변수1, 변수2, 변수3;
-//
+
 public class Exam0120 {
   
   public static void main(String[] args) {

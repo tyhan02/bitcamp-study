@@ -8,7 +8,7 @@ import java.sql.Date;
 //    정수, 부동소수점, 논리, 문자코드의 값을
 //- 레퍼런스 변수(referece variable)
 //    자바 원시 타입의 값을 제외한 모든 값
-//
+
 public class Exam0400 {
   public static void main(String[] args) {
     //자바 원시 데이터 타입 변수

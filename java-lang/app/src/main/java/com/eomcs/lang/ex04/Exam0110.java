@@ -11,7 +11,7 @@ package com.eomcs.lang.ex04;
 // - 문법
 //     메모리의종류 메모리이름;
 //     int a;
-//
+
 public class Exam0110 {
   public static void main(String[] args) {
 

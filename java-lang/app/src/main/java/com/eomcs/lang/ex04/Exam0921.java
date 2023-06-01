@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 형변환 - 부동소수점 변수 ==> 정수 변수
-//
+
 public class Exam0921 {
   public static void main(String[] args) {
     float f = 3.14f;

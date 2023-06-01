@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 변수의 종류 - 종류에 따른 변수의 사용 범위
-//
+
 class MyClass {
   int a = 11; // 인스턴스 변수
   static int b = 22; // 클래스 변수

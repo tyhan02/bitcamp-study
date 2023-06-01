@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 상수 - 변수의 값을 고정하는 방법
-//
+
 public class Exam0610 {
   public static void main(String[] args) {
     // 변수

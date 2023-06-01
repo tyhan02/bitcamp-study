@@ -17,10 +17,10 @@ public class Exam0710 {
 
 // 인스턴스 변수(instance variable)
 // - new 명령을 사용하여 인스턴스를 생성할 때 준비되는 변수
-//
+
 // 클래스 변수(class variable = static variable)
 // - 클래스가 로딩될 때 준비되는 변수
-//
+
 // 로컬 변수(local variable)
 // - 블록을 실행할 때 준비되는 변수
 //

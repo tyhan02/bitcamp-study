@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 값 저장과 메모리 크기 - 작은 크기의 메모리 값을 큰 크기의 메모리에 저장할 수 있다.
-//
+
 public class Exam0910 {
   public static void main(String[] args) {
 

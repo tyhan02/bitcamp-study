@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 형변환 - 명시적 형변환
-//
+
 public class Exam0930 {
   public static void main(String[] args) {
 
@@ -30,4 +30,3 @@ public class Exam0930 {
 // - 부동소수점을 정수로 변환 할 때  
 // - 문법
 //   변수 = (바꾸고자하는타입) 변수 또는 값;
-//

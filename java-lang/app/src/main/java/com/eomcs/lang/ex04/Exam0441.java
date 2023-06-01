@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 논리값 변수 - 변수의 메모리 크기
-//
+
 public class Exam0441 {
   public static void main(String[] args) {
 

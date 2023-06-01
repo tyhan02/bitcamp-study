@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex04;
 
 //# 레퍼런스 변수
-//
+
 public class Exam0451 {
   public static void main(String[] args) {
 

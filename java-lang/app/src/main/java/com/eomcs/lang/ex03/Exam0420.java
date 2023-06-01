@@ -6,12 +6,11 @@ package com.eomcs.lang.ex03;
 //- 각 문자를 표현하기 위해 정의된 값을 '문자 코드(character code)'라 부른다.
 //- 각 문자에 부여된 문자 코드의 집합을 '문자 집합(chararacter set)'이라 부른다.
 //- 자바가 사용하는 문자 집합은 '유니코드(Unicode)'이다.
-//
+
 //## 유니코드
 //- 전 세계의 모든 문자를 컴퓨터에서 일관되게 처리할 목적으로 정의된 산업 표준 규칙이다.
 //- 유니코드는 '문자를 2진수로 표현(인코딩; encoding)'할 때, 두 가지 방식(UTF와 UCS)을 사용한다. 
 //- 자바는 메모리에 문자를 저장할 때는 'UCS(국제 문제 집합)'를 사용하고, 외부로 입출력 할 때는 'UTF'를 사용한다.
-//
 //## UCS(Universal Coded Character Set; 국제 문자 집합)
 //- 'ISO 10646' 표준을 가리키는 이름이다.
 //- UCS는 110만개 이상의 문자에 대해 코드 값을 정의하고 있다.
@@ -19,11 +18,11 @@ package com.eomcs.lang.ex03;
 //- 이 범위의 유니코드를 'BMP(Basic Multilingual Plane; 기본 다국어 평면)'라 하며 보통 'UCS-2'라 부른다.
 //  즉 2바이트 범위에서 정의한 유니코드라는 의미다.  
 //- 자바가 사용하는 유니코드는 바로 이 'UCS-2'라 불리는 범위의 유니코드이다.
-// 
+
 //## UTF(UCS Transformation Format)
 //- 문자를 1바이트 코드 값으로 저장하는 기존 시스템에서 UCS를 사용하기 위해 만든 문자 인코딩 방식이다.
 //- UTF-8, UTF-16, UTF-32가 있으며 주로 UTF-8이 사용된다.
-//
+
 //## UTF-8
 //- UCS의 코드 값 중에서 00 ~ 7F(127개)까지 ASCII에 해당하는 UCS 코드는 그대로 1바이트로 표현한다.
 //  따라서 ASCII를 기본으로 사용하는 시스템의 경우 UTF-8로 인코딩 된 데이터를 특별한 처리없이 그대로 읽고 쓸 수 있다.
@@ -35,7 +34,7 @@ package com.eomcs.lang.ex03;
 //  100000 ~ 10FFFF: 11110zzz 10zzyyyy 10yyyyxx 10xxxxxx 
 //- 대부분의 시스템에서 데이터 입출력 할 때 UTF-8을 사용한다.
 //- 자바에서도 데이터 입출력할 때 주로 UTF-8을 사용하고 있다.
-// 
+
 //## UTF-16
 //- UCS-2의 코드 값은 그대로 2바이트로 표현한다.
 //- ASCII 코드도 UCS-2와 동일하게 2바이트로 표현한다.
@@ -47,12 +46,12 @@ package com.eomcs.lang.ex03;
 //  000080 ~ 0007FF: 00000yyy xxxxxxxx
 //  000800 ~ 00FFFF: yyyyyyyy xxxxxxxx
 //  100000 ~ 10FFFF: 110110zz zzyyyyyy 110111yy xxxxxxxx 
-//
+
 //## UTF-32
 //- UCS-4의 4바이트 코드 값을 그대로 표현한다.
 //- 즉 UTF-32는 UCS-4와 같다.
 //- 모든 문자를 4바이트 코드 값으로 표현하기 때문에 메모리 낭비가 심하다.
-//
+
 
 public class Exam0420 {
   public static void main(String[] args) {

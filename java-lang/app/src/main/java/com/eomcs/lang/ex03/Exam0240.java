@@ -5,10 +5,10 @@ package com.eomcs.lang.ex03;
 //- 값은 비트로 표현되고, 각 비트는 전기가 있거나 없는 두 상태로 표현한다.
 //- 비트의 두 가지 상태를 표현할 때 2진수의 1과 0을 사용한다.
 //- 따라서 값을 메모리에 저장하려면 2진수로 표현할 수 있어야 한다.
-//
+
 //* 참고!
 //- 그림이나 사진(BITMAP), 음성(WAV), 색상(RGB)을 저장할 때도 2진수로 표현한다.
-// 
+
 
 public class Exam0240 {
   public static void main(String[] args) {

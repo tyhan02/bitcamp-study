@@ -8,7 +8,7 @@ package com.eomcs.lang.ex03;
 //- 문자열과 다른 종류의 값을 연결하기
 //  문자열과 다른 종류의 값을 연결할 수 있다.
 //  연결되기 전에 다른 종류의 값이 먼저 문자열로 바뀐 다음에 연결된다.
-//
+
 public class Exam0620 {
   public static void main(String[] args) {
     // 두 문자열을 합쳐 새 문자열이 생성된다.

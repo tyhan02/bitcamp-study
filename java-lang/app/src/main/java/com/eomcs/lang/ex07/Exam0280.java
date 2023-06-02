@@ -6,7 +6,7 @@ public class Exam0280 {
 
   public static void main(String[] args) {
     // 2 + 3 + 4 + 5 = ?
-    //
+
     // 1) 메서드의 리턴 값을 변수로 받을 때
     int result = plus(2, 3);
     result = plus(result, 4); // result 변수가 넘어가는 것이 아니라 result 변수의 값이 넘어 간다.

@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 // # 메서드 : 가변 파라미터의 단점
-//
+
 public class Exam0271 {
 
   static void m2(int a, String... names) {} // OK!

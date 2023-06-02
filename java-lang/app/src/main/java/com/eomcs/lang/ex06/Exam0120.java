@@ -3,7 +3,7 @@ package com.eomcs.lang.ex06;
 //# 흐름 제어문 - 조건문 if에 여러 문장을 묶기
 //
 public class Exam0120 {
-  public static void main(String[] args) {
+  public static void main (String[] args) {
     int age = 17;
 
     // => if (조건) {문장1; 문장2;}

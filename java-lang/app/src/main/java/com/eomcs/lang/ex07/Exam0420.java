@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 //# 메서드 : Heap 메모리 영역
-//
+
 public class Exam0420 {
 
   static int[] getArray() {

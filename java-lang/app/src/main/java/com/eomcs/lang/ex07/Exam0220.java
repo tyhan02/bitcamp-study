@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 // # 메서드 : 개념 및 기본 문법 II
-//
+
 public class Exam0220 {
 
   // 예2) 메서드 : 리턴값(X), 파라미터(O)
@@ -43,7 +43,7 @@ public class Exam0220 {
 // - 메서드를 호출할 때 넘겨주는 값
 // - 예) hello("홍길동", 20);
 // "홍길동", 20 이 아규먼트이다.
-//
+
 // 파라미터(parameter)
 // - 아규먼트를 받는 변수
 // - 예) void hello(String name, int age) {...}

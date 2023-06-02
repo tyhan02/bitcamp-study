@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 // # 메서드 : 개념 및 기본 문법 III
-//
+
 public class Exam0230 {
 
   // 3) 메서드 : 파라미터(X), 리턴값(O)

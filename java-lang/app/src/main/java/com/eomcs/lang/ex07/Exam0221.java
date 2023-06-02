@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 // # 메서드 : 개념 및 기본 문법 II
-//
+
 public class Exam0221 {
 
   static void hello(String name, int age) {

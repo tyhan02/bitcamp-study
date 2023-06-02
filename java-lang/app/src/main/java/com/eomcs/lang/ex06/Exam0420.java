@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex06;
 
 //# 흐름 제어문 - for 반복문의 초기화 변수
-//
+
 public class Exam0420 {
   public static void main(String[] args) {
     // for 문 안에 선언된 변수는 for 문을 나가는 순간 제거된다.

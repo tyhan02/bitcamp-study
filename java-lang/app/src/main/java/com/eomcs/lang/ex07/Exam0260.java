@@ -1,7 +1,7 @@
 package com.eomcs.lang.ex07;
 
 // # 메서드 : 가변 파라미터 vs 배열 파라미터
-
+//
 public class Exam0260 {
 
   // 가변 파라미터

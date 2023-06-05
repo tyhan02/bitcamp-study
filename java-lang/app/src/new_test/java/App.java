@@ -1,4 +1,5 @@
-package bitcamp.myapp;
+package new_test.java;
+
 import java.util.Scanner;
 
 public class App {

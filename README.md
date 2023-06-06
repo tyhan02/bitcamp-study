@@ -76,7 +76,7 @@
 
 # 6일(5/30,화)
 - 자바 프로그래밍
-  - 표준 입출력 API 사용법(com.eomcs.lang.ex99)
+   - 표준 입출력 API 사용법(com.eomcs.lang.ex99)
   - 변수 사용법(com.eomcs.lang.ex04)
   - 배열 사용법(com.eomcs.lang.ex04)
 - 프로젝트 실습

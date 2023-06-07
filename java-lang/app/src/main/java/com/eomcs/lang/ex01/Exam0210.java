@@ -11,7 +11,7 @@ package com.eomcs.lang.ex01;
 //- 문법
 //  - 공개: public class 클래스명 {...}
 //  - 비공개: class 클래스명 {...}
-// 
+
 
 //다음과 같이 클래스명과 소스 파일명이 다르더라도 괜찮다. 
 class Exam2_1x {}
